@@ -1,7 +1,7 @@
 {
   "name": "hwa-ripple-binary-codec",
   "version": "0.0.1",
-  "description": "XRP Ledger binary codec",
+  "description": "HWA Ledger binary codec",
   "files": [
     "dist/*",
     "bin/*",
